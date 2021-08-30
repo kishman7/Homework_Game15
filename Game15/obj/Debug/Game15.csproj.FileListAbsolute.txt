@@ -1,0 +1,20 @@
+F:\YURKO\SHAG\Project C#\17_22082021_Lab_WindowsForm (MDI, Drop&Drag)_Entity(Model First, Способи загрузки даних(lazy loading, eager loading))\Game15\Game15\Game15\bin\Debug\Game15.exe.config
+F:\YURKO\SHAG\Project C#\17_22082021_Lab_WindowsForm (MDI, Drop&Drag)_Entity(Model First, Способи загрузки даних(lazy loading, eager loading))\Game15\Game15\Game15\bin\Debug\Game15.exe
+F:\YURKO\SHAG\Project C#\17_22082021_Lab_WindowsForm (MDI, Drop&Drag)_Entity(Model First, Способи загрузки даних(lazy loading, eager loading))\Game15\Game15\Game15\bin\Debug\Game15.pdb
+F:\YURKO\SHAG\Project C#\17_22082021_Lab_WindowsForm (MDI, Drop&Drag)_Entity(Model First, Способи загрузки даних(lazy loading, eager loading))\Game15\Game15\Game15\obj\Debug\Game15.csprojAssemblyReference.cache
+F:\YURKO\SHAG\Project C#\17_22082021_Lab_WindowsForm (MDI, Drop&Drag)_Entity(Model First, Способи загрузки даних(lazy loading, eager loading))\Game15\Game15\Game15\obj\Debug\Game15.Properties.Resources.resources
+F:\YURKO\SHAG\Project C#\17_22082021_Lab_WindowsForm (MDI, Drop&Drag)_Entity(Model First, Способи загрузки даних(lazy loading, eager loading))\Game15\Game15\Game15\obj\Debug\Game15.csproj.GenerateResource.cache
+F:\YURKO\SHAG\Project C#\17_22082021_Lab_WindowsForm (MDI, Drop&Drag)_Entity(Model First, Способи загрузки даних(lazy loading, eager loading))\Game15\Game15\Game15\obj\Debug\Game15.csproj.CoreCompileInputs.cache
+F:\YURKO\SHAG\Project C#\17_22082021_Lab_WindowsForm (MDI, Drop&Drag)_Entity(Model First, Способи загрузки даних(lazy loading, eager loading))\Game15\Game15\Game15\obj\Debug\Game15.exe
+F:\YURKO\SHAG\Project C#\17_22082021_Lab_WindowsForm (MDI, Drop&Drag)_Entity(Model First, Способи загрузки даних(lazy loading, eager loading))\Game15\Game15\Game15\obj\Debug\Game15.pdb
+F:\YURKO\SHAG\Project C#\17_22082021_Lab_WindowsForm (MDI, Drop&Drag)_Entity(Model First, Способи загрузки даних(lazy loading, eager loading))\Game15\Game15\Game15\obj\Debug\Game15.FormGame15.resources
+f:\YURKO\SHAG\Project C#\17_22082021_Lab_WindowsForm (MDI, Drop&Drag)_Entity\Game15\Game15\Game15\bin\Debug\Game15.exe.config
+f:\YURKO\SHAG\Project C#\17_22082021_Lab_WindowsForm (MDI, Drop&Drag)_Entity\Game15\Game15\Game15\bin\Debug\Game15.exe
+f:\YURKO\SHAG\Project C#\17_22082021_Lab_WindowsForm (MDI, Drop&Drag)_Entity\Game15\Game15\Game15\bin\Debug\Game15.pdb
+f:\YURKO\SHAG\Project C#\17_22082021_Lab_WindowsForm (MDI, Drop&Drag)_Entity\Game15\Game15\Game15\obj\Debug\Game15.csprojAssemblyReference.cache
+f:\YURKO\SHAG\Project C#\17_22082021_Lab_WindowsForm (MDI, Drop&Drag)_Entity\Game15\Game15\Game15\obj\Debug\Game15.FormGame15.resources
+f:\YURKO\SHAG\Project C#\17_22082021_Lab_WindowsForm (MDI, Drop&Drag)_Entity\Game15\Game15\Game15\obj\Debug\Game15.Properties.Resources.resources
+f:\YURKO\SHAG\Project C#\17_22082021_Lab_WindowsForm (MDI, Drop&Drag)_Entity\Game15\Game15\Game15\obj\Debug\Game15.csproj.GenerateResource.cache
+f:\YURKO\SHAG\Project C#\17_22082021_Lab_WindowsForm (MDI, Drop&Drag)_Entity\Game15\Game15\Game15\obj\Debug\Game15.csproj.CoreCompileInputs.cache
+f:\YURKO\SHAG\Project C#\17_22082021_Lab_WindowsForm (MDI, Drop&Drag)_Entity\Game15\Game15\Game15\obj\Debug\Game15.exe
+f:\YURKO\SHAG\Project C#\17_22082021_Lab_WindowsForm (MDI, Drop&Drag)_Entity\Game15\Game15\Game15\obj\Debug\Game15.pdb
